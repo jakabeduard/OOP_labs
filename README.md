@@ -1,3 +1,3 @@
-# OOP_gyak  
+# OOP_labs  
 Eduard Jakab  
 I.ev automatizacio.
